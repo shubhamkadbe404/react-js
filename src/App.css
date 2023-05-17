@@ -20,12 +20,12 @@
   text-align: center;
 }
 .main-div .section1 {
-  background-color: blueviolet;
+  background-color: #6495ED;
   border-left: 1px solid grey;
   color: aliceblue;
 }
 .main-div .section2 {
-  background-color: tomato;
+  background-color: #DE3163;
   color: aliceblue;
 }
 
