@@ -22,11 +22,11 @@
 .main-div .section1 {
   background-color: #6495ED;
   border-left: 1px solid grey;
-  color: aliceblue;
+  color: #ffffff;
 }
 .main-div .section2 {
   background-color: #DE3163;
-  color: aliceblue;
+  color: #ffffff;
 }
 
 @media (prefers-reduced-motion: no-preference) {
